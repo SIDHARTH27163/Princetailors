@@ -1,0 +1,5 @@
+<div class="col-md-12">
+                  <label for="inputName5" class="form-label"><?php echo $label; ?></label>
+                  <input type="<?php echo $type; ?>" name="<?php echo $input_name; ?>"  placeholder="<?php echo $input_placeholder; ?>" class="<?php echo $input_class; ?>">
+                </div>
+               

@@ -1,0 +1,12 @@
+[02-Jun-2024 16:27:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/v5r40tpztlpg/public_html/inlcudes/db.php:8
+Stack trace:
+#0 /home/v5r40tpztlpg/public_html/inlcudes/db.php(8): mysqli->__construct()
+#1 /home/v5r40tpztlpg/public_html/index.php(33): include('/home/v5r40tpzt...')
+#2 {main}
+  thrown in /home/v5r40tpztlpg/public_html/inlcudes/db.php on line 8
+[02-Jun-2024 16:27:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/v5r40tpztlpg/public_html/inlcudes/db.php:8
+Stack trace:
+#0 /home/v5r40tpztlpg/public_html/inlcudes/db.php(8): mysqli->__construct()
+#1 /home/v5r40tpztlpg/public_html/index.php(33): include('/home/v5r40tpzt...')
+#2 {main}
+  thrown in /home/v5r40tpztlpg/public_html/inlcudes/db.php on line 8
